@@ -7,7 +7,7 @@ O jogo foi criado para a disciplina **Laborátio de Linguagem de Programação 1
 
 Para **compilar no terminal**: 
 
-g++ -o pingpong pingpong.cpp `pkg-config --cflags --libs opencv4`
+g++ -o pingpong pingpong.cpp \`pkg-config --cflags --libs opencv4`
 
 ./pingpong
 
